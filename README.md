@@ -24,5 +24,6 @@ Il peut ajouter un autre occultant avec la target oxygen ou changer de véhicule
 
 /!\ Vidéo Demo : 
 
-Vidéo demo sur myges, j'ai eu pas mal de problèmes avec mon téléphone par conséquent je l'ai tournée à l'aide de droidcam sur mon bureau de ce fait les éléments AR volent, alors qu'ils devraient rouler au sol. 
+https://drive.google.com/file/d/1D4ip92LLaD2mOSAE2yjliWDZ9waOXOg4/view?usp=sharing \
+Vidéo demo, j'ai eu pas mal de problèmes avec mon téléphone par conséquent je l'ai tournée à l'aide de droidcam sur mon bureau de ce fait les éléments AR volent, alors qu'ils devraient rouler au sol. 
 
