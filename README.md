@@ -22,7 +22,7 @@ Il peut ajouter un autre occultant avec la target oxygen ou changer de véhicule
 
 ![ArCapture](https://github.com/LaGerbe-Bohu/Benjamin_Gerbe_5RVJV_CC/assets/10485864/07c31bd4-df8d-449d-81ed-917bd192f92c)
 
-Demo : 
+/!\ Vidéo Demo : 
 
 Vidéo demo sur myges, j'ai eu pas mal de problèmes avec mon téléphone par conséquent je l'ai tournée à l'aide de droidcam sur mon bureau de ce fait les éléments AR volent, alors qu'ils devraient rouler au sol. 
 
