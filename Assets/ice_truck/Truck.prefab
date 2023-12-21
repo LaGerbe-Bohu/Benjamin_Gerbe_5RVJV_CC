@@ -20,7 +20,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1106618273868411807
 Transform:
   m_ObjectHideFlags: 0
@@ -212,16 +212,16 @@ MonoBehaviour:
   directivityValue: 1
   occlusion: 1
   occlusionInput: 0
-  occlusionType: 0
-  occlusionRadius: 1
+  occlusionType: 1
+  occlusionRadius: 0.1
   occlusionSamples: 16
   occlusionValue: 1
   transmission: 1
-  transmissionType: 0
-  transmissionInput: 0
-  transmissionLow: 1
-  transmissionMid: 1
-  transmissionHigh: 1
+  transmissionType: 1
+  transmissionInput: 1
+  transmissionLow: 0.225
+  transmissionMid: 0.163
+  transmissionHigh: 0.295
   maxTransmissionSurfaces: 1
   directMixLevel: 1
   reflections: 0
@@ -523,16 +523,16 @@ MonoBehaviour:
   directivityValue: 1
   occlusion: 1
   occlusionInput: 0
-  occlusionType: 0
-  occlusionRadius: 1
+  occlusionType: 1
+  occlusionRadius: 0.1
   occlusionSamples: 16
   occlusionValue: 1
   transmission: 1
-  transmissionType: 0
-  transmissionInput: 0
-  transmissionLow: 1
-  transmissionMid: 1
-  transmissionHigh: 1
+  transmissionType: 1
+  transmissionInput: 1
+  transmissionLow: 0.225
+  transmissionMid: 0.163
+  transmissionHigh: 0.295
   maxTransmissionSurfaces: 1
   directMixLevel: 1
   reflections: 0
@@ -730,7 +730,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &8574992274285109763
 Transform:
   m_ObjectHideFlags: 0
@@ -874,16 +874,16 @@ MonoBehaviour:
   directivityValue: 1
   occlusion: 1
   occlusionInput: 0
-  occlusionType: 0
-  occlusionRadius: 1
+  occlusionType: 1
+  occlusionRadius: 0.1
   occlusionSamples: 16
   occlusionValue: 1
   transmission: 1
-  transmissionType: 0
-  transmissionInput: 0
-  transmissionLow: 1
-  transmissionMid: 1
-  transmissionHigh: 1
+  transmissionType: 1
+  transmissionInput: 1
+  transmissionLow: 0.225
+  transmissionMid: 0.163
+  transmissionHigh: 0.295
   maxTransmissionSurfaces: 1
   directMixLevel: 1
   reflections: 0
